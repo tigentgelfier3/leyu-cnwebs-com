@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tigentgelfier3.github.io/leyu-cnwebs-com/sitemap.xml
